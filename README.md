@@ -1,2 +1,2 @@
 # my first repository
-This is my very first repository
+Here I have tried to implement various algorithms in c or c++
